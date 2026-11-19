@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon-180.png" width="96" height="96" alt="AMDkey">
+</p>
+
 # dsh-amdkey
 
 AMD Radeon Cloud 的多 Key 轮换插件，面向 DeepSeek Harness。

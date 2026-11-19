@@ -15,7 +15,8 @@
     "client.js",
     "locale",
     "cordis.patch.yml",
-    "README.md"
+    "README.md",
+    "assets"
   ],
   "keywords": [
     "dsh",
@@ -38,7 +39,8 @@
         "@deepseek-ai/dsh-client-runtime",
         "@deepseek-ai/dsh-client-ui-slots"
       ]
-    }
+    },
+    "icon": "assets/icon-180.png"
   },
   "peerDependencies": {
     "@deepseek-ai/cordis": ">=4.0.2"
